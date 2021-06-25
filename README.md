@@ -8,6 +8,8 @@ For privacy and security, the letter templates and dictionaries have been remove
 
 The letters will need tables to run properly, that is how the docx package targets what fields to fill.
 
+In addition, this program is tailored to the environment it was built for, without very slight modifications your results will vary.
+
 
 <h3>Features:</h3>
 <ul>
